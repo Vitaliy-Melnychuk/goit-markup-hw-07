@@ -109,11 +109,11 @@
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    fill: $white-color;
+    fill: $main-light;
     background-color: $active-color;
 }
 .condition__border {
-    border: 1px solid $black-color;
+    border: 1px solid $main-dark;
     width: 14px;
     height: 13px;
     position: absolute;

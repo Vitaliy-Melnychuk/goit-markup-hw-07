@@ -1,5 +1,5 @@
 .join {
-    margin-top: 12px;
+    // margin-top: 12px;
     margin-left: 70px;
 }
 .join__title {
@@ -10,7 +10,7 @@
     line-height: 16px;
     margin-bottom: 20px;
     letter-spacing: 0.03em;
-    color: $white-color;
+    color: $main-light;
 }
 .join__list {
     display: flex;
@@ -30,7 +30,7 @@
     width: 44px;
     height: 44px;
     border-radius: 50%;
-    fill: $white-color;
+    fill: $main-light;
     transition: background-color 250ms linear;
 
     &:focus,
